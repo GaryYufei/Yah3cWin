@@ -13,6 +13,12 @@ Thanks for the work of [Maple](https://github.com/humiaozuzu/), his project [Yah
 
 ## Project completeness
 
-This project completes the core code for connection to SYSU network center. I finish this code at the beginning of August, 2013. After that, I went to Brisbane, Australia for my 2+2 exchange plan. I am now in the University of Queensland. Please feel free to contract me if you have any insterst in this project.
+This project completes the core code for connection to SYSU network center. I finish this code at the beginning of August, 2013. After that, I went to Brisbane, Australia for my 2+2 exchange plan. I am now in the University of Queensland. It still needs a GUI. I tried to use QT but failed due to the insuffient time. Please feel free to contract me if you have any insterst in this project.
+
+## Installation Environment
+
+- **OS** *windows7+*
+- **Third Party Linrary** *WinPcap*
+- **IDE** *VS2010*
 
       
